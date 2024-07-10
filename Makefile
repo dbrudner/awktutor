@@ -1,5 +1,5 @@
 # Define the binary name
-BINARY=awktutor
+BINARY=./build/awktutor
 
 # Define the Go files
 GOFILES=$(wildcard *.go)
