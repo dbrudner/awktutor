@@ -1,0 +1,4 @@
+Welcome to awktutor!
+This tutorial will guide you through the basics of awk, an efficient and versatile text processing language.
+
+Press Enter to start the first lesson.

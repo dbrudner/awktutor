@@ -1,0 +1,9 @@
+Lesson 1: Basic Printing with awk
+
+Rule: Use the `print` command to print text.
+
+Example:
+$ echo "Hello World" | awk '{print $0}'
+Output: Hello World
+
+Challenge: Write an awk script that prints each line of the input.
